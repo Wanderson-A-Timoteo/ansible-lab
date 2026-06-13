@@ -1,0 +1,10 @@
+# Ignorar as pastas de estado local do Vagrant (obrigatório para este laboratório)
+.vagrant/
+
+# Ignorar configurações do editor VS Code
+.vscode/
+
+# Ignorar ficheiros temporários e de sistema
+*.log
+.DS_Store
+Thumbs.db
